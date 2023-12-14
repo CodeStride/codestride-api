@@ -1,6 +1,6 @@
 {
     "name": "supabase-api",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The API that powers CodeStride's Supabase functionality.",
     "main": "dist/server.ts",
     "scripts": {
